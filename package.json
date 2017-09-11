@@ -1,6 +1,6 @@
 {
   "name": "generate-selectors",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Returns CSS selectors from HTML",
   "main": "index.js",
   "scripts": {
