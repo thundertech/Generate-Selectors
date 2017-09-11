@@ -1,5 +1,5 @@
 {
-  "name": "stylesheet-generator",
+  "name": "generate-selectors",
   "version": "0.0.1",
   "description": "Returns CSS selectors from HTML",
   "main": "index.js",
