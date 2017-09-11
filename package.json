@@ -12,6 +12,10 @@
     "generate",
     "code"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thundertech/Generate-Selectors.git"
+  },
   "author": "thunder::tech",
   "license": "ISC",
   "dependencies": {
